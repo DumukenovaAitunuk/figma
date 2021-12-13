@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-family: "Shippori Antique", sans-serif;
+}
+
+.navbar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.bg-navbar {
+  background-color: rgb(146, 179, 191);
+}
+
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+.navbar ul .nav-link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 1rem 1.5rem;
+  color: black;
+}
