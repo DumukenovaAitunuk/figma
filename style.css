@@ -3,7 +3,11 @@
   font-family: "Roboto", sans-serif;
   font-family: "Shippori Antique", sans-serif;
 }
-
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: .1rem;
+}
 .navbar {
   position: relative;
   display: flex;
@@ -150,8 +154,8 @@ background-color: rgb(225, 242, 245);
 
 }
 .ex-10{
-    color: white;
-    background-color: rgb(9, 73, 45);
+    color: rgb(172, 123, 123);
+    background: #F7D8BF;
    
     display: flex;
     flex-direction: column;
@@ -162,9 +166,9 @@ background-color: rgb(225, 242, 245);
 
 }
 .ex-11{
-    color: white;
-    background-color: rgb(9, 73, 45);
-   
+    color: rgb(125, 186, 175);
+ 
+    background: #F1FAF6;
     display: flex;
     flex-direction: column;
   align-items: center;
@@ -172,4 +176,8 @@ background-color: rgb(225, 242, 245);
   padding-bottom: 15px;
   margin-top: 10px;
 
+}
+.ex-12 row{
+    gap: 15px;
+    height: 250px;
 }
