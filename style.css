@@ -137,3 +137,39 @@ background-color: rgb(225, 242, 245);
     flex-direction: column;
   align-items: center;
 }
+.ex-8{
+    color: white;
+    background-color: rgb(9, 73, 45);
+   
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 10px;
+
+}
+.ex-10{
+    color: white;
+    background-color: rgb(9, 73, 45);
+   
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 10px;
+
+}
+.ex-11{
+    color: white;
+    background-color: rgb(9, 73, 45);
+   
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 10px;
+
+}
