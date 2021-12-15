@@ -177,7 +177,16 @@ background-color: rgb(225, 242, 245);
   margin-top: 10px;
 
 }
-.ex-12 row{
+.ex-12 .row{
     gap: 15px;
     height: 250px;
+    
+}
+.ex-13{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
 }
