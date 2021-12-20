@@ -198,10 +198,33 @@ background-color: rgb(225, 242, 245);
 .ex-14{
     background: url(./images/bg2.png);
     color: white;
-    height: 100vh;
+    height: 980px;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-top: 30px; ;
 }
 .up{
-  margin-top: -450px;
+  margin-top: -300px;
+}
+.row.col-4.p3{
+    display: flex;
+    justify-content: center;
+}
+.p1{
+    color: lightblue;
+    background-color: lightblue;
+}
+.p2{
+    color: orangered;
+    background-color: orangered;
+}
+.ex-15{
+  background-color: rgb(11, 72, 94);  
+ padding-left: 30px;
+ padding-right: 30px;
+ margin-top: 20px;
+  border: 1px solid white;
+}
+.ex-15 a{
+  color: white;
 }
